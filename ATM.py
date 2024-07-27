@@ -145,8 +145,8 @@ class ATM:
 # Example usage:
 bank = Bank()
 time.sleep(5)
-bank.add_user("user1", "1234")
-bank.add_user("user2", "5678")
+bank.add_user("softy", "9604")
+bank.add_user("surya", "0611")
 
 atm = ATM(bank)
 atm.start()
